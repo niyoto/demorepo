@@ -1,3 +1,3 @@
 # Demo
 
-Niyi is now a programmer! Oshe!
+Niyi is now a programmer. Oshe!
